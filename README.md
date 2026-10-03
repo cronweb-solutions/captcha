@@ -222,15 +222,6 @@ Its security model combines:
 
 CWCaptcha's private service architecture is built around:
 
-- PHP
-- JavaScript
-- HTML5 / CSS
-- MariaDB
-- server-side cryptographic verification
-- cross-origin iframe isolation
-- adaptive risk processing
-- automated data-retention cleanup
-
 Production infrastructure and implementation details remain private.
 
 ---
@@ -250,7 +241,7 @@ business-rule validation.
 
 Read the public CWCaptcha privacy notice:
 
-**[CWCaptcha Privacy Policy](./privacy.md)**
+**[CWCaptcha Privacy Policy](./PRIVACY.md)**
 
 ---
 
