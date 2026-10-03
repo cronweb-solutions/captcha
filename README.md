@@ -1,17 +1,26 @@
-<p align="center">
-  <h1 align="center">CWCaptcha</h1>
-  <p align="center">
-    <strong>Adaptive Human Verification & Anti-Abuse Infrastructure</strong>
-  </p>
+<div align="center">
 
-  <p align="center">
-    Private security infrastructure.
-  </p>
+# CWCaptcha
+
+### Adaptive Human Verification & Anti-Abuse Infrastructure
+
+**Private security infrastructure developed for the Cronweb network**
+
+`Adaptive Verification` · `Replay Resistant` · `Risk Aware` · `Privacy Conscious`
+
+</div>
+
+<p align="center">
+  <img
+    src="cwcaptcha-banner.png"
+    alt="CWCaptcha — Adaptive Human Verification and Anti-Abuse Infrastructure"
+    width="100%"
+  >
 </p>
 
 ---
 
-## Human verification beyond a puzzle
+## Human verification
 
 **CWCaptcha** is Cronweb's privately operated human-verification and
 adaptive anti-abuse layer.
